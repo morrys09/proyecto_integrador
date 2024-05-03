@@ -1,0 +1,14 @@
+body {
+  background-image:url('https://img.freepik.com/fotos-premium/diseno-etiqueta-fondo-coche-vector-blanco_41969-13919.jpg?w=740');
+  background-size: cover; /* Para cubrir todo el fondo */
+  background-position: center; /* Centrar la imagen */
+  /* Otros estilos opcionales */
+  font-family: Arial, sans-serif;
+  color: white; /* Cambiar el color del texto para que sea legible */
+}
+
+.content {
+  /* Estilos adicionales para el contenido si es necesario */
+  padding: 500px;
+}
+  
